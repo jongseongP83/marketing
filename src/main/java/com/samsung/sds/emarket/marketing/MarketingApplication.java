@@ -9,6 +9,7 @@ public class MarketingApplication {
 	public static void main(String[] args) {
 		System.out.println("Hello, Spring");
 		SpringApplication.run(MarketingApplication.class, args);
+		System.out.println("Ok! Marketing Service Ready!!");
 	}
 
 }
